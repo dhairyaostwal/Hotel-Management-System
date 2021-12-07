@@ -1,10 +1,5 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]  
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -79,7 +74,7 @@ must fulfil:
 ### DATA FLOW DIAGRAM(DFD)
 
 <div align="center">
-   <img src="images/DFD.png" alt="DFD" width="300" height="300">
+   <img src="images/DFD.png" alt="DFD" width="600" height="500">
 <div>
 
 _For more information, please refer to the [Documentation](https://drive.google.com/file/d/19PT9ei7BEHr7mw2hLRs6e63Au9aYIOma/view)_
