@@ -84,7 +84,7 @@ must fulfil:
 
 <div align="center">
    <img src="images/DFD.png" alt="DFD" width="600" height="500">
-<div>
+</div>
 
 For more information, please refer to the [Documentation](https://drive.google.com/file/d/19PT9ei7BEHr7mw2hLRs6e63Au9aYIOma/view)
 
@@ -112,24 +112,8 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Dhairya Ostwal - [@twitter_handle](https://twitter.com/dhairyaostwal/)
+Dhairya Ostwal - [@dhairyaostwal](https://twitter.com/dhairyaostwal/)
 
-Project Link: [https://github.com/dhairyaostwal/Hotel-Management-System)
+Project Link: [here](https://github.com/dhairyaostwal/Hotel-Management-System)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dhairyaostwal/Hotel-Management-System.svg?style=for-the-badge
-[contributors-url]: https://github.com/dhairyaostwal/Hotel-Management-System/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dhairyaostwal/Hotel-Management-System.svg?style=for-the-badge
-[forks-url]: https://github.com/dhairyaostwal/Hotel-Management-System/network/members
-[stars-shield]: https://img.shields.io/github/stars/dhairyaostwal/Hotel-Management-System.svg?style=for-the-badge
-[stars-url]: https://github.com/dhairyaostwal/Hotel-Management-System/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dhairyaostwal/Hotel-Management-System.svg?style=for-the-badge
-[issues-url]: https://github.com/dhairyaostwal/Hotel-Management-System/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/dhairyaostwal/
