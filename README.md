@@ -8,32 +8,6 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#Hardware">Hardware</a></li>
-        <li><a href="#Software">Software</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -117,3 +91,16 @@ Dhairya Ostwal - [@dhairyaostwal](https://twitter.com/dhairyaostwal/)
 Project Link: [here](https://github.com/dhairyaostwal/Hotel-Management-System)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/dhairyaostwal/Hotel-Management-System.svg?style=for-the-badge
+[contributors-url]: https://github.com/dhairyaostwal/Hotel-Management-System/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dhairyaostwal/Hotel-Management-System.svg?style=for-the-badge
+[forks-url]: https://github.com/dhairyaostwal/Hotel-Management-System/network/members
+[stars-shield]: https://img.shields.io/github/stars/dhairyaostwal/Hotel-Management-System.svg?style=for-the-badge
+[stars-url]: https://github.com/dhairyaostwal/Hotel-Management-System/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dhairyaostwal/Hotel-Management-System.svg?style=for-the-badge
+[issues-url]: https://github.com/dhairyaostwal/Hotel-Management-System/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/dhairyaostwal/
